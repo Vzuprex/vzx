@@ -57,6 +57,7 @@ namespace vzx
                 Console.WriteLine("🤖:Ingresa otra vez la operacion que quieras hacer. Suma o Resta, o fin para salir");
                 entrada = Console.ReadLine();
                 Console.Clear();
+                STAR();
             }
         }
 
@@ -77,6 +78,7 @@ namespace vzx
                 Console.WriteLine("🤖:Ingresa otra vez la operacion que quieras hacer. Suma o Resta, o fin para salir");
                 entrada = Console.ReadLine();
                 Console.Clear();
+                STAR();
             }
                 
               
